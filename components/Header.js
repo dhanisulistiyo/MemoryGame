@@ -20,11 +20,12 @@ const styles = StyleSheet.create({
     alignSelf: 'stretch',
     paddingTop: 20,
     paddingBottom: 5,
-    backgroundColor: '#f3f3f3'
+    backgroundColor: '#fc4e79'
   },
   header_text: {
     fontWeight: 'bold',
     fontSize: 17,
-    textAlign: 'center'
+    textAlign: 'center',
+    color : '#ffffff'
   }
 });
